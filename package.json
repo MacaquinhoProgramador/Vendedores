@@ -3,5 +3,16 @@
   "dependencies": {
     "express": "^4.21.1",
     "mongoose": "^8.7.2"
-  }
+  },
+  "name": "vendedores",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
